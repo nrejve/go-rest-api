@@ -1,0 +1,29 @@
+{
+    "department": "IT",
+    "designation": "Research",
+    "employee": {
+        "firstname": "abc",
+        "lastname": "def",
+        "email": "ab@gmail.com"
+    }
+}
+
+{
+    "department": "Marketing",
+    "designation": "Field",
+    "employee": {
+        "firstname": "uvw",
+        "lastname": "xyz",
+        "email": "uv@gmail.com"
+    }
+}
+
+{
+    "department": "Sales",
+    "designation": "On",
+    "employee": {
+        "firstname": "mno",
+        "lastname": "pqr",
+        "email": "mn@gmail.com"
+    }
+}
